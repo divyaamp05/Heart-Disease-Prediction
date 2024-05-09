@@ -1,4 +1,4 @@
-# Heart Disease Prediction Project
+# Heart Disease Prediction 
 
 This repository contains code for predicting the presence of heart disease in patients using machine learning techniques.
 
